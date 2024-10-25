@@ -59,6 +59,7 @@ def move():
 
 
 setup(420, 420, 370, 0)
+bgcolor('lightgreen')
 hideturtle()
 tracer(False)
 listen()
